@@ -7,12 +7,6 @@ function Navbar() {
       <Link className="text-white hover:font-semibold" to="/">
         Home
       </Link>
-      <Link className="text-white hover:font-semibold" to="">
-        About
-      </Link>
-      <Link className="text-white hover:font-semibold" to="">
-        Contect
-      </Link>
     </div>
   );
 }
